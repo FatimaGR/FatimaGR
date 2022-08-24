@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello World! 🌎
+      I'm Fatima, a future FullStack developer, always with one eye open, and the other dreaming.
 
-<!--
-**FatimaGR/FatimaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
+#### Dev Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,github,git,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Soft Skills
+<ul>
+  <li> Creativity </li>
+  <li> Patience </li>
+  <li> Respect and teamwork </li>
+  <li> Empathy </li>
+  <li> Self-development </li>
+  <li> Positive attitude </li>
+</ul>
