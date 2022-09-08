@@ -4,7 +4,7 @@
 
 ## Skills
 #### Dev Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,github,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby,rails,github,git,react)](https://skillicons.dev)
 
 
 #### Soft Skills
