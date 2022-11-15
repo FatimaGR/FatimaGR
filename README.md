@@ -1,5 +1,5 @@
 ### Hello World! 🌎
-      I'm Fatima, Jr. FullStack developer, always with one eye open, and the other dreaming.
+      I'm Fatima, a Jr. FullStack developer, always with one eye open, and the other dreaming.
 
 
 ## Skills
