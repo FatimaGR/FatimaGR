@@ -6,7 +6,7 @@ I'm Fatima, a Jr. FullStack developer, always with one eye open, and the other d
 <br>
 <div>
 <ul>
-<li> 🌱 Hi! I'm constantly 📖 reading, 🧠 learning and 👨🏽‍💻 coding </li>
+<li> 🌱 Hi! I'm constantly 📖 reading, 🧠 learning and 👩🏻‍💻 coding </li>
 <li> 🔭 I'm currently learnign JavaScript and React.js </li>
 <li> 💼 My web portfolio: <a href="https://porfolio-website-gules.vercel.app">www.fatimagallardo.com</a> </li>
 <li> 📫 How to reach me: <a href="https://github.com/FatimaGR">fawicoma@gmail.com</a> </li>
