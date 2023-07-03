@@ -19,7 +19,7 @@ I'm Fatima, a Jr. FullStack developer, always with one eye open, and the other d
 #### Dev Skills
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,emotion,figma,postgresql,ruby,rails,git,github"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,sass,emotion,figma,postgresql,ruby,rails,git,github"/>
 </a>
 </div>
 
