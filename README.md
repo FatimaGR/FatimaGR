@@ -1,6 +1,6 @@
 ## Hello World! 🌎
 <div>
-I'm Fatima, a Jr. FullStack developer, always with one eye open, and the other dreaming 🚀✨
+I'm Fatima, a Jr. Front-End developer, always with one eye open, and the other dreaming 🚀✨
 <img src="./study.png" align="right" width="300"/>
 </div>
 <br>
