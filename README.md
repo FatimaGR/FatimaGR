@@ -19,7 +19,7 @@ I'm Fatima, a Jr. Front-End developer, always with one eye open, and the other d
 #### Technical Skills & Tools
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,sass,emotion,postgresql,python,git,github,figma"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,sass,emotion,styledcomponents,postgresql,python,git,github,figma"/>
 </a>
 </div>
 
